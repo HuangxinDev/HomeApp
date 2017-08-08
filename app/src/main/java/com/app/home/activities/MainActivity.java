@@ -1,7 +1,9 @@
-package com.app.home;
+package com.app.home.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.app.home.R;
 
 import org.greenrobot.eventbus.EventBus;
 
